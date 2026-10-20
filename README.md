@@ -1,6 +1,6 @@
 # Конкурентный срез (копия)
 
-Копия сайта https://aleksey-lyapin.github.io/konkurentny-srez/ со всеми разделами и собственным обновлением раз в неделю — по вторникам в 10:00 (Екатеринбург).
+Копия сайта https://aleksey-lyapin.github.io/konkurentny-srez/ со всеми разделами и данными на 20.10.2026. Автообновление остановлено 20.10.2026 (workflow выключен), актуальные данные — на основном сайте.
 
 Дашборд BAZA Development по Екатеринбургу: предложение конкурентов и сделки.
 Сайт: https://aleksey-lyapin.github.io/konkurentny-srez-copy/
